@@ -1,0 +1,5 @@
+name: Payment Service CI
+on:
+  push:
+    branches:
+      - main
